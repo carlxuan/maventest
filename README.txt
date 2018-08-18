@@ -3,5 +3,6 @@ mvn archetype:generate -DgroupId=carlxuan -DartifactId=maventest -DarchetypeArti
 
 Add to remote
 git remote add origin git@github.com:carlxuan/maventest.git
+git push -u origin master
 
 
